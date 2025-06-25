@@ -1,12 +1,3 @@
-Absolutely! Here's your **final GitHub-ready `README.md`**, updated with:
-
-* Proper use of **symbols** and icons where appropriate
-* Clear formatting
-* Removed *Future Improvements* section
-* Noted that it's done using **ESP microcontroller**
-
----
-
 # Weather Monitoring and Forecasting System
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
@@ -50,8 +41,3 @@ Absolutely! Here's your **final GitHub-ready `README.md`**, updated with:
 3. 🧠 A Python script trains a model on historical data and forecasts future values.
 4. 🔁 Forecasted values are transmitted to the ESP via serial.
 5. 📺 The ESP displays predicted values in real time.
-
----
-
-Let me know if you'd like me to help generate a project banner, add wiring diagrams, or embed a demo GIF!
-
